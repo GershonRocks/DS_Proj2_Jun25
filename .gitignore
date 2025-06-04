@@ -135,8 +135,7 @@ dmypy.json
 *.joblib
 *.sav
 
-# Jupyter notebook outputs (optional - remove if you want to keep outputs)
-*.ipynb
+
 
 # Data directories (uncomment if you don't want to track data)
 # data/
